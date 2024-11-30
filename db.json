@@ -1,3 +1,14 @@
 {
-  "todos": []
+  "todos": [
+    {
+      "id": 1,
+      "content": "Yuzunu yika",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "content": "Mailleri kontrol et",
+      "completed": false
+    }
+  ]
 }
